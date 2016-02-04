@@ -1,0 +1,177 @@
+--------------------------------------------------
+                                            lll   
+                                        iii lll   
+                                            lll   
+ rrrrrr   ooooo   ccccc rrrrrr   aaaaaa iii lll   
+ rrr rrr ooo ooo ccc    rrr rrr aaa aaa iii lll   
+ rrr     ooo ooo ccc    rrr     aaa aaa iii lll   
+ rrr      ooooo   ccccc rrr      aaaaaa iii  lll  
+--------------------------------------------------
+ TM and Copyright 2002-2016 Robert Jan Versluis.
+ All Rights Reserved.
+   r.j.versluis@rocrail.net
+   http://www.rocrail.net
+--------------------------------------------------
+20160118.142650.809 g9999I main     app      0880  pwd = [D:\SN2IR2016\Planet-Ody\Rocrail]
+20160118.142650.809 g9999I main     app      0882  command line arg0 = [C:\Rocrail\rocview.exe]
+20160118.142650.809 g9999I main     app      0882  command line arg1 = [D:\SN2IR2016\Planet-Ody\Rocrail\Lycee_Branly_compatible_PRS_sans_TJD-Commande_directe_carres.xml]
+20160118.142650.809 g9999I main     app      0886  Rocrail 10441 [da899a6b0bee56fade4cd1755a109b0f3a2fbd29]
+20160118.142650.809 g9999I main     app      0887  build Jan  4 2016 04:32:09
+20160118.142650.809 g9999I main     app      0911 Creating Frame...
+20160118.142650.809 g9999I main     OSystem  0545 no key
+20160118.142650.825 g9999I main     frame    5218 wxSizeEvent
+20160118.142650.825 g9999I main     frame    2128 m_ThemePath=0x00000000
+20160118.142650.825 g9999I main     frame    2129 m_ServerPath=0x00000000
+20160118.142650.825 g9999I main     frame    2130 init Frame...
+20160118.142650.825 g9999I main     frame    5218 wxSizeEvent
+20160118.142650.840 g9999I main     frame    2598 wxWidgets 3
+20160118.142650.840 g9999I main     frame    5218 wxSizeEvent
+20160118.142650.840 g9999I main     frame    5218 wxSizeEvent
+20160118.142650.840 g9999I main     svg      0313 scanning svg/themes/SpDrS60
+20160118.142650.840 g9999I main     svg      0317 symbol map created
+20160118.142650.840 g9999I main     svg      0313 scanning .
+20160118.142650.840 g9999I main     svg      0313 scanning .
+20160118.142650.840 g9999I main     svg      0313 scanning .
+20160118.142650.840 g9999I main     svg      0313 scanning .
+20160118.142650.840 g0500E main     OFile    0165 Error open file [svg\themes\SpDrS60\properties.xml] [rb] [2] [No such file or directory]
+20160118.142650.840 g9999I main     frame    2810 Creating PlanPanel...
+20160118.142650.840 g9999I main     frame    2904 Creating LocPanel...
+20160118.142650.840 g9999I main     slider   0070 Height=106 Step=0.900000 ThumbPos=90 ThumbRange=90
+20160118.142650.840 g9999I tick04B6 OSystem  0101 Ticker thread has started.
+20160118.142650.840 g9999I main     lc       1025 creating clock...
+20160118.142650.840 g9999I main     clock    0092 clock instantiated
+20160118.142650.840 g9999I main     frame    2924 Creating PT Panel...
+20160118.142650.840 g9999I main     cv       1179 CreateControls...
+20160118.142650.918 g9999I main     cv       1182 initLabels...
+20160118.142650.918 g9999I main     cv       0101 m_CVall[0]=1
+20160118.142650.918 g9999I main     cv       0101 m_CVall[1]=2
+20160118.142650.918 g9999I main     cv       0101 m_CVall[2]=3
+20160118.142650.918 g9999I main     cv       0101 m_CVall[3]=4
+20160118.142650.918 g9999I main     cv       0101 m_CVall[4]=5
+20160118.142650.918 g9999I main     cv       0101 m_CVall[5]=6
+20160118.142650.918 g9999I main     cv       0101 m_CVall[6]=17
+20160118.142650.918 g9999I main     cv       0101 m_CVall[7]=18
+20160118.142650.918 g9999I main     cv       0101 m_CVall[8]=29
+20160118.142650.918 g9999I main     frame    2933 Creating LNCV Panel...
+20160118.142650.918 g9999I main     lncv     0039 init
+20160118.142650.918 g9999I main     lncv     0041 Create
+20160118.142650.918 g9999I main     lncv     0043 ready
+20160118.142650.918 g9999I main     OSystem  0545 no key
+20160118.142650.918 g9999I main     frame    2954 Creating PlanNotebook...
+20160118.142650.918 g9999I main     frame    2962 Creating Serverpanel...
+20160118.142650.918 g9999I main     frame    2980 Creating Controllerpanel...
+20160118.142650.934 g9999I main     frame    3029 Show...
+20160118.142650.934 g9999I main     frame    5218 wxSizeEvent
+20160118.142650.934 g9999I main     app      0932 control code  slave code 
+20160118.142650.934 g9999I main     frame    3428 LocalPlan [D:\SN2IR2016\Planet-Ody\Rocrail\Lycee_Branly_compatible_PRS_sans_TJD-Commande_directe_carres.xml]
+20160118.142650.965 g9999I main     app      1003 guiApp->setModel( plan )
+20160118.142650.965 g9999I main     app      1009 isModelSet=0 stayOffline=1
+20160118.142651.106 g9999I donkeyth conthrea 0417 donkeyThread
+20160118.142651.106 g9999I main     plan     0333 panel cx=64 cy=48
+20160118.142651.106 g9999I main     plan     0337 starting timer...
+20160118.142651.152 g9999I main     plan     0865 scroll cx=64 cy=48
+20160118.142651.152 g9999I main     frame    0877 Adding level PRS (0,0)
+20160118.142651.152 g9999I main     frame    0933 select changed from -1 to 0
+20160118.142651.152 g9999I main     frame    0939 selecting 0
+20160118.142651.152 g9999I tid0x0DF plan     2372 initRunner() 0x08CFCD70
+20160118.142651.152 g9999I tid0x0DF plan     2329 Title = Lycee_Branly
+20160118.142651.152 g9999I tid0x0DF plan     2330 Level = 0(0)
+20160118.142651.152 g9999I tid0x0DF plan     2365 initPlan() READY
+20160118.142651.152 g9999I main     plan     0333 panel cx=64 cy=48
+20160118.142651.152 g9999I main     plan     0337 starting timer...
+20160118.142651.152 g9999I main     plan     0865 scroll cx=64 cy=48
+20160118.142651.152 g9999I main     frame    0877 Adding level Table_PRS (0,0)
+20160118.142651.152 g9999I tid0x0DF plan     2372 initRunner() 0x08CFCFD0
+20160118.142651.152 g9999I tid0x0DF plan     2329 Title = Lycee_Branly
+20160118.142651.152 g9999I tid0x0DF plan     2330 Level = 1(1)
+20160118.142651.152 g9999I tid0x0DF plan     2365 initPlan() READY
+20160118.142651.152 g9999I main     plan     0333 panel cx=64 cy=48
+20160118.142651.152 g9999I main     plan     0337 starting timer...
+20160118.142651.152 g9999I main     plan     0865 scroll cx=64 cy=48
+20160118.142651.152 g9999I main     frame    0877 Adding level Commandes (0,0)
+20160118.142651.168 g9999I tid0x0DF plan     2372 initRunner() 0x08CFD230
+20160118.142651.168 g9999I tid0x0DF plan     2329 Title = Lycee_Branly
+20160118.142651.168 g9999I tid0x0DF plan     2330 Level = 2(2)
+20160118.142651.168 g9999I tid0x0DF plan     2365 initPlan() READY
+20160118.142651.293 g9999I main     item     3086 signal C101 set to auto, state=green aspect=-1
+20160118.142651.293 g9999I main     item     3086 signal C103 set to auto, state=white aspect=0
+20160118.142651.293 g9999I main     item     3086 signal C105 set to auto, state=white aspect=0
+20160118.142651.293 g9999I main     item     3086 signal CV110 set to auto, state=red aspect=0
+20160118.142651.308 g9999I main     item     3086 signal S77.5 set to auto, state=green aspect=0
+20160118.142651.308 g9999I main     item     3086 signal C120 set to auto, state=white aspect=0
+20160118.142651.308 g9999I main     item     3086 signal CV123 set to auto, state=green aspect=0
+20160118.142651.308 g9999I main     item     3086 signal C121 set to auto, state=white aspect=-1
+20160118.142651.308 g9999I main     item     3086 signal S80.7 set to auto, state=green aspect=0
+20160118.142651.308 g9999I main     item     3086 signal S81.4 set to auto, state=green aspect=0
+20160118.142651.308 g9999I main     item     3086 signal S79.1 set to auto, state=green aspect=0
+20160118.142651.308 g9999I main     item     3086 signal S80.0 set to auto, state=green aspect=0
+20160118.142651.308 g9999I main     item     3086 signal S78.4 set to auto, state=green aspect=0
+20160118.142651.308 g9999I main     item     3086 signal CV134 set to auto, state=red aspect=0
+20160118.142651.308 g9999I main     item     3086 signal RR142 set to auto, state=green aspect=-1
+20160118.142651.308 g9999I main     item     3086 signal C108 set to auto, state=white aspect=0
+20160118.142651.308 g9999I main     item     3086 signal R147 set to auto, state=green aspect=-1
+20160118.142651.308 g9999I main     item     3086 signal CV109 set to auto, state=green aspect=0
+20160118.142651.308 g9999I main     item     3086 signal CV107 set to auto, state=red aspect=0
+20160118.142651.308 g9999I main     item     3086 signal C102 set to auto, state=white aspect=0
+20160118.142651.308 g9999I main     item     3086 signal C112 set to auto, state=white aspect=0
+20160118.142651.308 g9999I main     item     3086 signal CV122 set to auto, state=red aspect=0
+20160118.142651.324 g9999I main     app      1791 Bounce to add to local model: model:fstat
+20160118.142651.371 g9999I main     app      1791 Bounce to add to local model: model:fstat
+20160118.142651.371 g9999I main     frame    1275 check if loco [67000] fits in category 0xFF
+20160118.142651.371 g9999I main     frame    1275 check if loco [27000] fits in category 0xFF
+20160118.142651.371 g9999I main     frame    1275 check if loco [37000] fits in category 0xFF
+20160118.142651.371 g9999I main     frame    1350 Set first active loco to 27000 prev=(null)
+20160118.142651.371 g9999I main     frame    1356 Adding active loco 27000
+20160118.142651.371 g9999I main     frame    0771 no block [?] found for loco 27000
+20160118.142651.371 g9999I main     frame    1356 Adding active loco 37000
+20160118.142651.371 g9999I main     frame    0771 no block [?] found for loco 37000
+20160118.142651.371 g9999I main     frame    1356 Adding active loco 67000
+20160118.142651.371 g9999I main     frame    0771 no block [?] found for loco 67000
+20160118.142651.371 g9999I main     cv       0127 init 3 locs...
+20160118.142651.371 g9999I main     cv       0170 initValues...
+20160118.142651.386 g9999I main     app      1791 Bounce to add to local model: model:fstat
+20160118.142651.402 g9999I main     frame    5218 wxSizeEvent
+20160118.142651.480 g9999I main     plan     0380 Level 1 is not active (modview=0)
+20160118.142651.480 g9999I main     plan     0380 Level 2 is not active (modview=0)
+20160118.142651.589 g9999I scriptpl OScript  0522 Script player started.
+20160118.142657.572 g9999I main     OSystem  0545 no key
+20160118.142657.572 g9999I main     donkey   0114 init values...
+20160118.142657.572 g9999I main     OSystem  0545 no key
+20160118.142657.587 g9999I main     frame    4592 key is expired
+20160118.142700.442 g9999I main     frame    5218 wxSizeEvent
+20160118.142700.504 g9999I main     plan     0380 Level 1 is not active (modview=0)
+20160118.142700.504 g9999I main     plan     0380 Level 2 is not active (modview=0)
+20160118.142730.265 g9999I main     frame    5218 wxSizeEvent
+20160118.142730.312 g9999I main     plan     0380 Level 1 is not active (modview=0)
+20160118.142730.312 g9999I main     plan     0380 Level 2 is not active (modview=0)
+20160118.142732.849 g9999I main     frame    5218 wxSizeEvent
+20160118.142732.896 g9999I main     plan     0380 Level 1 is not active (modview=0)
+20160118.142732.912 g9999I main     plan     0380 Level 2 is not active (modview=0)
+20160118.142732.927 g9999I main     item     1234 Change position to 16,3
+20160118.142732.927 g9999I main     app      1791 Bounce to add to local model: model:modify
+20160118.142732.927 g9999I main     plan     2161 Item with id=tk20151003172851812 will be informed
+20160118.142732.927 g9999I main     plan     2161 Item with id=tk20151003172851812 will be informed
+20160118.142732.927 g9999I main     plan     2161 Item with id=tk20151003172851812 will be informed
+20160118.142732.927 g9999I main     plan     1906 Item with id=tk_tk20151003172851812 at level 1 not found!
+20160118.142732.927 g9999I main     plan     1906 Item with id=tk_tk20151003172851812 at level 2 not found!
+20160118.142759.694 g9999I main     app      1825 connecting... waitloops=1
+20160118.142759.694 g9999I main     frame    3177 control code , slave code 
+20160118.142759.694 g9999I main     frame    3179 monitoring is on
+20160118.142800.739 g9999I iReader  app      1092 console mode is on
+20160118.142800.739 g9999I main     frame    5542 new state 0x0000 (consolemode)
+20160118.142800.755 g9999I iReader  app      1003 guiApp->setModel( plan )
+20160118.142800.755 g9999I iReader  app      1009 isModelSet=0 stayOffline=0
+20160118.142800.786 g9999I main     plan     0333 panel cx=64 cy=48
+20160118.142800.786 g9999I main     plan     0337 starting timer...
+20160118.142800.786 g9999I main     plan     0865 scroll cx=64 cy=48
+20160118.142800.786 g9999I main     frame    0877 Adding level Level 0 (0,0)
+20160118.142800.786 g9999I main     frame    0933 select changed from -1 to 0
+20160118.142800.786 g9999I main     frame    0939 selecting 0
+20160118.142800.786 g9999I main     frame    1246 loco [27000] was selected
+20160118.142800.786 g9999I tid0x0DF plan     2372 initRunner() 0x08330448
+20160118.142800.786 g9999I tid0x0DF plan     2329 Title = New Plan
+20160118.142800.786 g9999I tid0x0DF plan     2330 Level = 0(0)
+20160118.142800.786 g9999I tid0x0DF plan     2365 initPlan() READY
+20160118.142800.864 g9999I iReader  app      1029 get the rocrail.ini...
+20160118.142840.418 g9999I main     frame    5116 shutting down...
+20160118.142841.978 g9999W iReader  OSocket  0597 *broken* errno=0, rc=10053, readed=-1

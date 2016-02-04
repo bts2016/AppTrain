@@ -1,0 +1,23 @@
+﻿<svg width="32" height="32">
+  <g>
+
+  <!-- Piste -->
+    <path stroke="rgb(0,0,0)" fill="rgb(0,0,0)" d="M 0,12 L 31,12 L 31,19 L 0,19 z " />
+
+  <!-- Remplissage rouge -->
+    <path stroke="rgb(255,0,0)" fill="rgb(255,0,0)" d="M 8,14 L 23,14 L 23,17 L 8,17 z " />
+
+   <!-- signal -->
+    <path stroke="rgb(0,0,0)" fill="rgb(0,0,0)" d="M 2,21 L 14,21 L 16,23 L 16,25 L 29,25 L 29,22 L 31,22 L 31,30 L 29,30 L 29,27 L 16,27 L 16,29 L 14,31 L 2,31 L 0,29 L 0,23 z " />
+
+  <!-- liseré --> 
+     <path stroke="rgb(255,255,255)" fill="rgb(0,0,0)" d="M 1,23 L 2,22 L 14,22 L 15,23 L 15,29 L 14,30 L  2,30 L 1,29 z " />
+
+<!-- Blanc allumé -->
+    <path stroke="rgb(255,255,255)" fill="rgb(255,255,255)" d="M 4,24 L 6,24 L 7,25 L 7,27 L 6,28 L 4,28 L 3,27 L 3,25 z " /> 
+
+  <!-- Violet allumé-->
+    <path stroke="rgb(255,0,255)" fill="rgb(255,0,255)" d="M 10,24 L 12,24 L 13,25 L 13,27 L 12,28 L 10,28 L 9,27 L 9,25 z " />
+
+  </g>
+</svg>

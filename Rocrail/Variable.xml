@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PosteAiguillage>
+  <Explication
+    Variable=               "Valeur de la variable"   VariableExplication=                "Courte Explication[Valeur par defaut en francais = Reelle valeur par defaut]"
+  />
+  <Connexion
+    IP=                     "127.0.0.1"           IPExplication=                      "Adresse IP du serveur RocRail [Ce Pc = 127.0.0.1]" 
+    Port=                   "8051"                    PortExplication=                    "Port du serveur RocRail [Port RocRail par defaut = 8051]"
+  />
+  <EtatsReservation
+    OCCUPIED=               "#ff0000"                 OCCUPIEDExplication=                "Couleur que prend les rails quand un train se trouve sur la zone [Rouge = #ff0000]"
+    FREE=                   "#808080"                 FREEExplication=                    "Couleur que prend les rails quand aucun trajet utilise le-dit rail [Gris = #808080]"
+    DA=                     "#ffff00"                 DAExplication=                      "Couleur que prend les rails quand un trajet en Destruction Automatique utilise le-dit rail [Jaune = #ffff00]"
+    TP=                     "#00ff00"                 TPExplication=                      "Couleur que prend les rails quand un Trajet Permanent utilise le-dit rail [Vert = #00ff00]]"
+  />
+  <TCO_PRS
+    Background=             "#000000"                 BackgroundExplication=              "Couleur du fond tu TCO et de la table PRS [Noir = #000000]"
+    HauteurTCOPourcentage=  "65"                      HauteurTCOPourcentageExplication=   "Pourcentage de la hauteur disponible que prend le TCO. Nombre entre 1 et 100. La hauteur de la table PRS est calculee a partir de ce chiffre [70% = 70]"
+  />
+  <TCO
+    CaseSizeMax=            "50"                      CaseSizeMaxExplication=             "Taille maximale qu'une case du TCO peut prendre (largeur et hauteur du carre) en pixels [50]"
+    EpaisseurRail=          "2,5"                     EpaisseurRailExplication=           "Epaisseur des rails en pixel (Mettre une virgule pour separer, le point ne marche pas et fera planter le programme)[2,5]"
+    CouleurFrameSignal=     "#ffffff"                 CouleurFrameSignalExplication=      "Couleur des cadres des signaux [Blanc = #ffffff]" 
+    TextColorZone=          "#4e4e4e"                 TextColorZoneExplication=           "Couleur du text des noms des zones [Blanc = #ffffff]"    
+    TextColorSignal=        "#ffffff"                 TextColorSignalExplication=         "Couleur du text des noms des signaux [Blanc = #ffffff]"
+    MontrerNomZone=         "true"                    MontrerNomZoneExplication=          "{true} les noms des zones sont affichees, {false} les noms des zones ne sont pas affichees [true]"
+  />
+  <PRS
+    ItineraireSizeMax=      "75"                      ItineraireSizeMaxExplication=       "Taille maximale qu'une case de la table PRS peut prendre (largeur et hauteur du carre) en pixel [75]"
+    CouleurFondOR=          "#000000"                 CouleurFondOrExplication=           "Couleur du carre indiquant l'origine des trajets [Noir = #000000]" 
+    CouleurFondDA=          "#858585"                 CouleurFondDAExplication=           "Couleur du carre indiquant la destination d'un trajet en Destruction Automatique [Gris = #808080]"   
+    CouleurFondTP=          "#ff4500"                 CouleurFondTPExplication=           "Couleur du carre indiquant la destination d'un Trajet Permanent [OrangeRouge = #ff4500]"
+    CouleurFondTrace=       "#ffffff"                 CouleurFondTraceExplication=        "Couleur des boutons lorsque l'itineraire est trace [Blanc = #ffffff]"
+    CouleurContourBouton=   "#808080"                 CouleurContourBoutonExplication=    "Couleur du contour des boutons [Gris = #808080]"
+    CouleurTexteOR=         "#ffffff"                 CouleurTexteORExplication=          "Couleur du texet sur les boutons d'origine [Blanc = #ffffff]"
+    CouleurTexteDA=         "#000000"                 CouleurTexteDAExplication=          "Couleur du texte sur les boutons de destruction automatique [Noir = #000000]"
+    CouleurTexteTP=         "#000000"                 CouleurTexteTPExplication=          "Couleur du texte sur les boutons de trajet permanent [Noir = #000000]"
+    DelayManoeuvreSw=       "1000"                    DelayManoeuvreSwExplication=        "Delay entre 2 tests de manoeuvrage des aiguillage (en ms) [1000]"      
+    TailleTexteBouton=      "9,25"                    TailleTexteBoutonExplication=       "Taille des textes apparaissant sur les boutons de selection d'itineraire [9,75]"      
+    CouleurFondCommutateur= "#787878"                 CouleurFondCommutateurExplication=  "Couleur du fond des commutateurs, l'interieur du cercle [Noir = #000000]"
+  />
+  <Fonctionnement
+    FermetureCarreDemarrage="false"                   FermetureCarreDemarrageExplication= "{true} les carres sont fermes au demarrage, {false} les carres restent en l'etat (on peut les fermer dans le menu) [true]"
+    LatenceAiguillage=      "500"                     LatenceAiguillageExplication=       "Temps entre 2 commandes d'aiguillages en ms [250]"
+    FermetureCarreSurCarre= "true"                    FermetureCarreSurCarreExplication=  "{true} La fermeture et l'ouverture des carres change l'etat des carres sur RocRail, {false} La fermeture et l'ouverture des carres change l'etat des commutateurs sur la table PRS"
+  />
+</PosteAiguillage>
